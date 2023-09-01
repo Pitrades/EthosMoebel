@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="EthosMoebel:jar">
+    <output-path>$USER_HOME$/OneDrive/Desktop/server12/plugins</output-path>
+    <properties id="ant-postprocessing">
+      <options enabled="true" />
+    </properties>
+    <root id="archive" name="EthosMoebel.jar">
+      <element id="module-output" name="EthosMoebel" />
+    </root>
+  </artifact>
+</component>

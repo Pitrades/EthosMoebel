@@ -1,0 +1,9 @@
+name: EthosMoebel
+version: '${project.version}'
+main: org.silvius.ethosmoebel.EthosMoebel
+api-version: 1.20
+commands:
+  ethosmoebel:
+    usage: /ethosmoebel give <moebelname>
+
+depend: [Lands, WorldGuard, ProtocolLib]
